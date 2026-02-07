@@ -44,7 +44,13 @@ To run the project:
 This game was developed as part of a university game development course.  
 The project focuses on implementing core gameplay mechanics and scoring logic.
 
-## Screenshots
+## Images
+![Gameplay Environment](Game_Environment_1.png)
+![Gameplay Environment](screenshots/Game_Environment_2.png)
+![Gameplay Environment](screenshots/Game_Environment_3.png)
+![Main Menu](screenshots/Main_Menu.png)
+![Pause Menu](screenshots/Pause_Panel.png)
+![Win Panel](screenshots/Win_Panel.png)
 
 ## Gameplay Demo
 Short gameplay video (50 seconds):
