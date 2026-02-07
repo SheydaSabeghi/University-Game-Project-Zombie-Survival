@@ -52,6 +52,7 @@ The project focuses on implementing core gameplay mechanics and scoring logic.
 ![Pause Menu](Pause_Panel.png)
 ![Win Panel](Images/Win_Panel.png)
 
+
 ## Gameplay Demo
 Short gameplay video (50 seconds):
 [Watch the gameplay demo] ⬇️
