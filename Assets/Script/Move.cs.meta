@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 498f09c368b877d40a933a5af93e98ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShootW: {instanceID: 0}
+  - prefabShootW: {fileID: 3917583292606448668, guid: 45a7fbd1ced57804cbe9e62492a568ff, type: 3}
+  - firePoint: {instanceID: 0}
+  - characterTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
