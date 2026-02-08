@@ -46,10 +46,13 @@ The project focuses on implementing core gameplay mechanics and scoring logic.
 
 ## Images
 ![Gameplay Environment 1](Images/GameEnvironment1.png)
+
 ![Gameplay Environment 2](Images/GameEnvironment2.png)
-![Gameplay Environment 3](Images/GameEnvironment3.png)
+
 ![Main Menu](Images/MainMenu.png)
+
 ![Pause Menu](Images/PausePanel.png)
+
 ![Win Panel](Images/WinPanel.png)
 
 
