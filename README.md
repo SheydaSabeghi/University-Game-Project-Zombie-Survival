@@ -45,11 +45,8 @@ This game was developed as part of a university game development course.
 The project focuses on implementing core gameplay mechanics and scoring logic.
 
 ## Images
-![Gameplay Environment 1](Images/GameEnvironment1.png)
-![Gameplay Environment 2](Images/GameEnvironment2.png)
-![Main Menu](Images/MainMenu.png)
-![Pause Menu](Images/PausePanel.png)
-![Win Panel](Images/WinPanel.png)
+![Gameplay Environment 1]<img width="1282" height="616" alt="GameEnvironment1" src="https://github.com/user-attachments/assets/dddf9fce-a8b3-44f2-9b30-971eaefca2cf" />
+
 
 
 ## Gameplay Demo
