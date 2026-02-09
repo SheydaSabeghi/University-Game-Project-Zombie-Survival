@@ -1,7 +1,7 @@
 # 🧟 Zombie Survival – University Game Project
 
 ## About the Game
-Zombie Survival is a single-player university game project where the player controls a zombie character.  
+Zombie Survival is a 2D single-player university game project where the player controls a zombie character.  
 The goal of the game is to eliminate enemies, overcome obstacles, collect score bonuses, and reach the final scene to win.
 
 ## Gameplay Overview
