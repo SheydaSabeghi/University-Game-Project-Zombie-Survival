@@ -58,8 +58,8 @@ The project focuses on implementing core gameplay mechanics and scoring logic.
 6<img width="1276" height="617" alt="WinPanel" src="https://github.com/user-attachments/assets/7ef76ca9-6c8f-475a-8e4d-06c4be252d4c" />
 
 
-#4# Gameplay Demo
-Sh5ort gameplay video (50 seconds):
+## Gameplay Demo
+Short gameplay video (50 seconds):
 [Watch the gameplay demo] ⬇️
 https://drive.google.com/drive/folders/1qd4-ivrArLsjoAkq8jokp5albm59oC8p?usp=sharing
 
